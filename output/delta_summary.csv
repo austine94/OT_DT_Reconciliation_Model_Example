@@ -1,0 +1,6 @@
+scenario,Misdeclared,Silent,Undeclared
+normal,18,0,0
+perturbed_silent,17,1,0
+perturbed_undeclared,18,0,1
+perturbed_identity,18,0,0
+dos,18,0,0

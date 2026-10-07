@@ -1,0 +1,19 @@
+delta_class,category,declared_id,observed_id,tier,confidence,note
+Misdeclared,data_quality,BIED100,00:09:8e:21:73:25,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED10,00:09:8e:21:73:33,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED11,00:09:8e:21:73:32,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED12,00:09:8e:21:73:31,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED20,00:09:8e:21:73:30,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED21,00:09:8e:21:73:29,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED22,00:09:8e:21:73:28,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED30,00:09:8e:21:73:24,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED31,00:09:8e:21:73:22,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED32,00:09:8e:21:73:21,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED33,00:09:8e:21:73:20,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED40,00:09:8e:21:73:23,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED41,00:09:8e:21:73:19,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED42,00:09:8e:21:73:18,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,LIED43,00:09:8e:21:73:17,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,TIED13,00:09:8e:21:73:27,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,TIED23,00:09:8e:21:73:26,name_exact,high,appid declared=0004 observed=1000
+Misdeclared,data_quality,UFIED,00:09:8e:21:73:16,name_exact,high,appid declared=0004 observed=1000
